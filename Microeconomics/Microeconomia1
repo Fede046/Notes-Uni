@@ -25,6 +25,47 @@
         <mxCell id="xxRIQsm1xM3cyVrGAXJL-7" value="Spesso si possono esistere problemi economici non correlati da un budget e valori monetari" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="200" width="130" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-9" target="xxRIQsm1xM3cyVrGAXJL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-9" target="xxRIQsm1xM3cyVrGAXJL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-9" target="xxRIQsm1xM3cyVrGAXJL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-9" target="xxRIQsm1xM3cyVrGAXJL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-9" value="Teoria della domanda individuale" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-10" value="Correlazione tra prezzo e alla quantità che l&#39;individuo domanda" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-12" value="Proveremo a misurare il prezzo e la validità del beneficio&lt;div&gt;(misurando il benessere ottenuto)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="460" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-14" target="xxRIQsm1xM3cyVrGAXJL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-14" value="Caratteristica degli invidui" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-17" target="xxRIQsm1xM3cyVrGAXJL-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-17" target="xxRIQsm1xM3cyVrGAXJL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-17" value="Osservazione e caratteristica del comportamento dell&#39;individuo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-20" value="Domanda di mercato" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
