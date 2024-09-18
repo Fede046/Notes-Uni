@@ -66,6 +66,21 @@
         <mxCell id="xxRIQsm1xM3cyVrGAXJL-20" value="Domanda di mercato" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-22" target="xxRIQsm1xM3cyVrGAXJL-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-22" value="Mettendo insieme Domanda e Offerta si ottiene un equilibrio" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-23" value="Equilibrio concorrenziale&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-25" value="Concetto di Monopolio" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-23" target="xxRIQsm1xM3cyVrGAXJL-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
