@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Pagina-1" id="qV9e_mO1mdd82nOCAyDU">
-    <mxGraphModel dx="875" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,8 +144,93 @@
         <mxCell id="xxRIQsm1xM3cyVrGAXJL-46" value="Dipende dal contesto che analizziamo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-48" target="xxRIQsm1xM3cyVrGAXJL-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-48" target="xxRIQsm1xM3cyVrGAXJL-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-48" target="xxRIQsm1xM3cyVrGAXJL-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xxRIQsm1xM3cyVrGAXJL-48" value="Problema degli affitti nella città" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-49" value="Curva di Domanda" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-51" target="xxRIQsm1xM3cyVrGAXJL-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-51" target="xxRIQsm1xM3cyVrGAXJL-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-51" value="Vogliamo sviluppare:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-53" value="-Una funzione di Damanda (consumatori)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-55" value="-Una funzione di Offerta (Produttori)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-57" target="xxRIQsm1xM3cyVrGAXJL-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-57" target="xxRIQsm1xM3cyVrGAXJL-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="2000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-57" target="xxRIQsm1xM3cyVrGAXJL-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-57" target="xxRIQsm1xM3cyVrGAXJL-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-57" target="xxRIQsm1xM3cyVrGAXJL-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-57" value="Hp:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-59" target="xxRIQsm1xM3cyVrGAXJL-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-59" target="xxRIQsm1xM3cyVrGAXJL-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-59" value="1) Tanti consumatori (studenti) &amp;amp; tanti produttori (proprietari appartementi)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1965" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-61" value="I consumatori prendo il prezzo dei produttori come dato (spesso)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-64" value="I proprietari considerano il prezzo di mercato come dati è meno realistica (perchè il prodotto è unico)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2050" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-66" value="2) Impotizziamo che gli appartamenti sono tutti uguali allora la concorrenza è più forte" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="2060" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-68" value="3) L&#39;oggetto dello scambio è omogeneo&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-69" target="xxRIQsm1xM3cyVrGAXJL-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-69" value="4) La disponibilità del consumatore è differente" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-73" target="xxRIQsm1xM3cyVrGAXJL-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-73" value="Lista dei consumatori" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-75" value="Si traccia una lista con le disponibilità a pagare (500$,400$,380$,..) questo si chiama &lt;b&gt;Prezzo di riserva&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2220" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
