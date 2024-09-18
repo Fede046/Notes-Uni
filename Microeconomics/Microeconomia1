@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Pagina-1" id="qV9e_mO1mdd82nOCAyDU">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,6 +83,69 @@
         </mxCell>
         <mxCell id="xxRIQsm1xM3cyVrGAXJL-27" value="&lt;b&gt;&lt;u&gt;Inroduzione al Corso&lt;/u&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-28" target="xxRIQsm1xM3cyVrGAXJL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-28" value="L&#39;analisi economica per farla bisogna eliminare i dati irrilevanti (non correlati)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="890" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-29" target="xxRIQsm1xM3cyVrGAXJL-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-29" value="Nessun modello è uguale alla realtà" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="890" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-31" target="xxRIQsm1xM3cyVrGAXJL-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-31" value="Il prezzo determina la quantità che il consumatore vuole consumare&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Variabile &lt;b&gt;esogena&lt;/b&gt; (vado a l supermercato e penso se posso comprarmelo a qual prezzo)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Il prezzo non variabile &lt;b&gt;endogena&lt;/b&gt;&amp;nbsp;(quando posso contrattare il prezzo)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="840" width="250" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-33" value="Quello che è esogeno in una analisi diventa endogena in un altra analisi" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-35" target="xxRIQsm1xM3cyVrGAXJL-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-35" target="xxRIQsm1xM3cyVrGAXJL-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-35" value="Principio di Ottimizzazione e equilibrio" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-36" target="xxRIQsm1xM3cyVrGAXJL-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-36" value="Principio di Ottimizzazione" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-38" target="xxRIQsm1xM3cyVrGAXJL-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-38" target="xxRIQsm1xM3cyVrGAXJL-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-38" value="Principio di Eqilibrio" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-40" target="xxRIQsm1xM3cyVrGAXJL-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-40" value="Qualsiasi individuo economico agisce in base ai suoi obbiettivi.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Il comportamento seguente è Ottimale in base al raggiungimento dell&#39;obbiettivo&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SE L&#39;AGENTE ECONOMICO HA UN OBBIETTIVO CERCA DI COSEGUIRLO&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="1430" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-42" value="Comportamento individuale" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-44" value="In un ambiente nessun individuo ha la concezione di cambiare il suoi pensiero in base all&#39;obbiettivo dell&#39;altro&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Le scelte individuali creano un situazione di equilibrio&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="1432" width="175" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-46" value="Dipende dal contesto che analizziamo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-48" value="Problema degli affitti nella città" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
