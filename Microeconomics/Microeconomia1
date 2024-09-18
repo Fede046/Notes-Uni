@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Pagina-1" id="qV9e_mO1mdd82nOCAyDU">
-    <mxGraphModel dx="791" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,6 +327,15 @@
         </mxCell>
         <mxCell id="xxRIQsm1xM3cyVrGAXJL-112" value="&lt;div&gt;Il concetto di esternalità si riferisce a una situazione in cui le azioni di un soggetto economico (come un&#39;impresa o un individuo) hanno effetti indiretti su terzi che non sono coinvolti nella transazione. Le esternalità possono essere positive o negative.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Esternalità negative: Si verificano quando le azioni di un soggetto impattano negativamente su altri. Ad esempio, una fabbrica che inquina un fiume causa danni alla comunità locale e agli ecosistemi circostanti. In questo caso, i costi sociali non sono riflessi nei costi di produzione dell&#39;azienda.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Esternalità positive: Si hanno quando le azioni di un soggetto portano benefici ad altri. Un esempio è una persona che pianta alberi nel proprio giardino: ciò può migliorare l&#39;estetica del quartiere e aumentare il valore delle proprietà circostanti.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Le esternalità possono portare a inefficienze nel mercato poiché i prezzi non riflettono il vero costo o il vero beneficio delle loro azioni. Per affrontare questo problema, i governi possono intervenire attraverso regolamentazioni, tassazione o sovvenzioni per cercare di internalizzare le esternalità, ossia far sì che i costi o i benefici sociali siano considerati nelle decisioni private.&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="3135" width="970" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxRIQsm1xM3cyVrGAXJL-117" target="xxRIQsm1xM3cyVrGAXJL-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-117" value="Concetto di Equilibrio&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxRIQsm1xM3cyVrGAXJL-118" value="Prezzo per cui la quantità domandata è uguale alla quantità offerta" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="3730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
